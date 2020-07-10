@@ -2,6 +2,8 @@
 
 An unofficial Franz recipe for [Playary Music](https://app.playary.com/) a great Spotify alternative.
 
+** NOT WORKING ** - Playary won't display, maybe because of the user-agent (not sure)  ¯\\\_(ツ)_/¯
+
 ## Installing
 
 ### Windows
