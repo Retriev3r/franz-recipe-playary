@@ -1,6 +1,6 @@
-# YouTube Music for Franz
+# Playary Music for Franz
 
-An unofficial Franz recipe for [YouTube Music](https://music.youtube.com/).
+An unofficial Franz recipe for [Playary Music](https://app.playary.com/) a great Spotify alternative.
 
 ## Installing
 
@@ -10,26 +10,26 @@ With git and PowerShell:
 
 ```sh
 mkdir $env:APPDATA\Franz\recipes\dev\
-git clone git@github.com:badetitou/franz-youtube-music.git $env:APPDATA\Franz\recipes\dev\franz-youtube-music
+git clone git@github.com:Retriev3r/franz-recipe-playary.git $env:APPDATA\Franz\recipes\dev\franz-recipe-playary
 ```
 
 With Explorer:
 
-1. Download the `franz-youtube-music.zip` from github.  Extract it to its own folder (`franz-youtube-music`).
+1. Download the `franz-recipe-playary.zip` from github.  Extract it to its own folder (`franz-recipe-playary`).
 2. Open `%appdata%/Franz/recipes/dev/`.  The `dev` folder may not exist, so go ahead and create it.
-3. Copy the `franz-youtube-music` folder into the plugins directory.
+3. Copy the `franz-recipe-playary` folder into the plugins directory.
 4. Reload Franz.
 
 ### Mac
 
 ```sh
 mkdir ~/Library/Application\ Support/Franz/recipes/dev/
-git clone git@github.com:badetitou/franz-youtube-music.git ~/Library/Application\ Support/Franz/recipes/dev/franz-youtube-music
+git clone git@github.com:Retriev3r/franz-recipe-playary.git ~/Library/Application\ Support/Franz/recipes/dev/franz-recipe-playary
 ```
 
 ### Linux
 
 ```sh
 mkdir ~/.config/Franz/recipes/dev
-git clone git@github.com:badetitou/franz-youtube-music.git ~/.config/Franz/recipes/dev/franz-youtube-music
+git clone git@github.com:Retriev3r/franz-recipe-playary.git ~/.config/Franz/recipes/dev/franz-recipe-playary
 ```
