@@ -7,7 +7,7 @@
   "author": "Ben Wagner <Ben.cc5a29@burnermail.io>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://app.playary.com//",
+    "serviceURL": "https://app.playary.com/",
     "hasNotificationSound": false
   }
 }
